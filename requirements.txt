@@ -1,0 +1,6 @@
+streamlit
+requests
+pandas
+fastmcp
+google-adk
+python-dotenv
