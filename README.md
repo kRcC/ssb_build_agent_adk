@@ -115,7 +115,7 @@ Resultatet over vil kunne variere over tid når SSB-data oppdateres.
 ### 1) Klon og gå inn i prosjektet
 
 ```bash
-git clone <repo-url>
+git clone <https://github.com/kRcC/ssb_build_agent_adk>
 cd ssb_build_agent_adk
 ```
 
